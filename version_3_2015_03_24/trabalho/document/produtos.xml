@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<produto>
+    <item id="1">
+        <codigo>ET1415</codigo>
+        <descricao>Produto 1</descricao>
+        <preco>13.90</preco>
+        <quantidade>10</quantidade>      
+    </item>
+    <item id="2">
+        <codigo>EEDD47</codigo>
+        <descricao>Produto 2</descricao>
+        <preco>132.90</preco>
+        <quantidade>102</quantidade>   
+    </item>
+    <item id="3">
+        <codigo>GG1415</codigo>
+        <descricao>Produto 3</descricao>
+        <preco>1.90</preco>
+        <quantidade>10</quantidade>   
+    </item>
+</produto>
